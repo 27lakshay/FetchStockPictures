@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Desktop Demo
+
+![Demo](https://github.com/27lakshay/demo_gifs/blob/main/UnSplashSearch_Demo.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
